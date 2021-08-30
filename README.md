@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- Hi, my name is Ada Schuler. 
 ![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaschuler&show_icons=true&theme=tokyonight)
 
 
