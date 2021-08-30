@@ -2,6 +2,8 @@
 
 - Hi, my name is Ada Schuler. <p>
 ![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaschuler&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaschuler&layout=compact)]
+
 
 
 <!--
