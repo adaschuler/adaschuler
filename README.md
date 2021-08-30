@@ -1,9 +1,7 @@
 ### WELCOME
-- Hi, my name is Ada Schuler. <p>
+- Hi, my name is Ada Schuler. <p> 
                                                                                 
-                                                                                
-                                                                                
-                                                                                
+                                                                                                                               
                /&&&%                                         %&&&(              
               %&&&&%/&&&                                 &&%/#&&&&&             
               %&&&&&%% &&&&#                         #%&&& &&&&&&&%             
@@ -27,7 +25,13 @@
               (%                                                 %(             
                                                                        
                                                                        
-
+<!--
+Mensaje typing
+https://github.com/DenverCoder1/readme-typing-svg
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF00FF&multiline=true&height=120&lines=*%3A+*+*...;*+*+*+*...;*+*+*+*...;*+*+!!!)
+-->
+<img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&multiline=true&height=120&lines=*%3A+*+*...;*+*+*+*...;*+*+*+*...;*+*+!!!"/>
+  
 
 ![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaschuler&show_icons=true&theme=tokyonight)<p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaschuler&layout=compact)
