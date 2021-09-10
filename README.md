@@ -24,7 +24,7 @@ https://github.com/DenverCoder1/readme-typing-svg
   </th>
  </tr>
   <tr>
- 
+  <th align='center'>
                                                                           
                                                                                                                               
                /&&&%                                         %&&&(              
@@ -49,7 +49,7 @@ https://github.com/DenverCoder1/readme-typing-svg
               &&                                                 &&             
               (%                                                 %(             
                                                                        
-    
+    </th>
   </tr>
 </table>  
 
