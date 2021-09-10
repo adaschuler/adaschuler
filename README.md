@@ -47,8 +47,11 @@ https://github.com/DenverCoder1/readme-typing-svg
 </tr>
 
 <tr>
+ <th align='center'>
+  <h3 align='center'>
  <img src="https://activity-graph.herokuapp.com/graph?username=adaschuler&theme=rogue"/>
-
+   </h3>
+ </th>
  
  
  </tr>
