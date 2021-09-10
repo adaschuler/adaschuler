@@ -52,9 +52,12 @@ https://github.com/DenverCoder1/readme-typing-svg
 <tr>
   <th align='center'>
 
+   <h3 align='center'>
 ![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaschuler&show_icons=true&theme=tokyonight)
+   </h3>
+   <h3 align='center'>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaschuler&layout=compact)
-
+   </h3>
   </th>
  </tr>
 </table>  
