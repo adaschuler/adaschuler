@@ -23,11 +23,9 @@ https://github.com/DenverCoder1/readme-typing-svg
 
     <td>Celda 3</td>
 
-  </tr>
+ 
 
-  <tr>
-
-    <td>Celda 4</td>
+  
 
     <td>Celda 5</td>
 
@@ -39,9 +37,10 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 <div style=" margin: auto;">  
   
-  
-                                                                                
-                                                                                                                               
+<tr>
+
+    <td>                                                                                
+                                                                                                                              
                /&&&%                                         %&&&(              
               %&&&&%/&&&                                 &&%/#&&&&&             
               %&&&&&%% &&&&#                         #%&&& &&&&&&&%             
@@ -64,8 +63,8 @@ https://github.com/DenverCoder1/readme-typing-svg
               &&                                                 &&             
               (%                                                 %(             
                                                                        
-                                                                       
-</div>
+    </td>                                                                   
+</tr>
   
 
 ![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaschuler&show_icons=true&theme=tokyonight)<p>
