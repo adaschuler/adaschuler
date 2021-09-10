@@ -1,11 +1,8 @@
-<table align='center'>
- <tr>
-  <th align='center'>
-<p align="left">
+
+<p align="center">
 <a href="https://linkedin.com/in/adaschuler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adaschuler" height="30" width="40" /></a> - Hi, i'am Ada. 
 </p>
-   </th>
-    </tr>
+   <table align='center'>
  <tr>
   <th align='center'>
 <h6 align="left">Lenguajes y herramientas:</h6>
