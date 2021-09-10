@@ -2,12 +2,6 @@
  <tr>
   <th align='center'>
    
-<!--
-Mensaje typing
-https://github.com/DenverCoder1/readme-typing-svg
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF00FF&multiline=true&height=120&lines=W+E+L+C+O+M+E+<3)
--->
-<img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&multiline=true&height=120&lines=W+E+L+C+O+M+E+<3"/>
 
 
 <p align="left">
@@ -46,7 +40,14 @@ https://github.com/DenverCoder1/readme-typing-svg
               &&       .&%&&&%.                    &&&&%&.       &&             
               &&                                                 &&             
               (%                                                 %(             
-                                                                       
+<!--
+Mensaje typing
+https://github.com/DenverCoder1/readme-typing-svg
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF00FF&multiline=true&height=120&lines=W+E+L+C+O+M+E+<3)
+-->
+<img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&multiline=true&height=120&lines=W+E+L+C+O+M+E+<3"/>
+
+   
     </th>
   </tr>
 <tr>
