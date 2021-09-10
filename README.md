@@ -50,15 +50,13 @@ https://github.com/DenverCoder1/readme-typing-svg
     </th>
   </tr>
 <tr>
+  <th align='center'>
 
-
-<th align='center'>
- ![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaschuler&show_icons=true&theme=tokyonight)</br> 
- 
+![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaschuler&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaschuler&layout=compact)
 
-</th>
-  </tr>
+  </th>
+ </tr>
 </table>  
 
 <!--
