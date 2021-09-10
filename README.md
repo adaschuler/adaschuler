@@ -53,10 +53,10 @@ https://github.com/DenverCoder1/readme-typing-svg
   <th align='center'>
 
    <h3 align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=adaschuler&show_icons=true&theme=tokyonight/>
+<img src="https://github-readme-stats.vercel.app/api?username=adaschuler&show_icons=true&theme=tokyonight"/>
    </h3>
    <h3 align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adaschuler&layout=compact/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adaschuler&layout=compact"/>
    </h3>
   </th>
  </tr>
