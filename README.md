@@ -48,7 +48,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&multiline=true&height=120&lines=W+E+L+C+O+M+E+<3"/>
 
    
-    </th>
+    
   </tr>
 <tr>
   <th align='center'>
