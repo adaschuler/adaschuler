@@ -15,8 +15,6 @@ https://github.com/DenverCoder1/readme-typing-svg
 </p>
    </th>
     </tr>
-</table>  
-<table align='center'>
  <tr>
   <th align='center'>
 <h6 align="left">Lenguajes y herramientas:</h6></br>
@@ -51,13 +49,18 @@ https://github.com/DenverCoder1/readme-typing-svg
                                                                        
     </th>
   </tr>
-</table>  
+<tr>
 
 
-![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaschuler&show_icons=true&theme=tokyonight)<p>
+<th align='center'>
+ ![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaschuler&show_icons=true&theme=tokyonight)<p> 
+</th>
+<th align='center'> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaschuler&layout=compact)
 
-
+</th>
+  </tr>
+</table>  
 
 <!--
 **adaschuler/adaschuler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
