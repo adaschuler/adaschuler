@@ -1,9 +1,6 @@
 <table align='center'>
  <tr>
   <th align='center'>
-   
-
-
 <p align="left">
 <a href="https://linkedin.com/in/adaschuler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adaschuler" height="30" width="40" /></a> - Hi, my name is Ada Schuler. 
 </p>
@@ -46,13 +43,10 @@ https://github.com/DenverCoder1/readme-typing-svg
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF00FF&multiline=true&height=120&lines=W+E+L+C+O+M+E+<3)
 -->
 <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&multiline=true&height=120&lines=W+E+L+C+O+M+E+<3"/>
-
    
-    
-  </tr>
+</tr>
 <tr>
   <th align='center'>
-
    <h3 align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=adaschuler&show_icons=true&theme=tokyonight"/>
    </h3>
