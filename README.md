@@ -45,6 +45,15 @@ https://github.com/DenverCoder1/readme-typing-svg
 <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&multiline=true&height=120&lines=W+E+L+C+O+M+E+<3"/>
    
 </tr>
+
+<tr>
+ [![Ada's github activity graph](https://activity-graph.herokuapp.com/graph?username=adaschuler&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ 
+ 
+ </tr>
+
+
 <tr>
   <th align='center'>
    <h3 align='center'>
