@@ -58,6 +58,22 @@ https://github.com/DenverCoder1/readme-typing-svg
 </h3>
 </th>
 </tr>
+<tr>
+<th align='center'>  
+  <!--
+Repositorio original de la funcion de visitas
+https://komarev.com/ghpvc/
+![GitHub Views](https://komarev.com/ghpvc/?username=adaschuler&color=2685BF)
+-->
+##
+<h3 align='center'>
+ <p>
+  <img src='images/b.jpg'/>
+ </p>
+  <img src="https://komarev.com/ghpvc/?username=adaschuler&label=Profile%20views&color=0111C2&style=flat" alt="adaschuler" />
+</h3>
+</th>
+</tr>  
 </table>  
 
 <!--
