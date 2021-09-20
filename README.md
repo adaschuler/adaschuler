@@ -67,7 +67,7 @@ https://komarev.com/ghpvc/
 -->
 <h3 align='center'>
  <p>
-  <img src='images/b.jpg'/>
+  <img src='ps.jpg'/>
  </p>
   <img src="https://komarev.com/ghpvc/?username=adaschuler&label=Profile%20views&color=0111C2&style=flat" alt="adaschuler" />
 </h3>
