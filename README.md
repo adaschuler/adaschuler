@@ -65,7 +65,6 @@ Repositorio original de la funcion de visitas
 https://komarev.com/ghpvc/
 ![GitHub Views](https://komarev.com/ghpvc/?username=adaschuler&color=2685BF)
 -->
-##
 <h3 align='center'>
  <p>
   <img src='images/b.jpg'/>
